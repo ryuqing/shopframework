@@ -1,0 +1,20 @@
+use myshop
+set names  utf-8
+use myshop
+set names  utf-8
+insert into cate(catename,intro) values (' d','777')
+use myshop
+set names  utf-8
+insert into cate(catename,intro) values (' test','测试成功')
+use myshop
+set names  utf-8
+insert into cate(catename,intro) values (' ','')
+use myshop
+set names  utf-8
+insert into cate(catename,intro) values (' d','ddd')
+use myshop
+set names  utf-8
+insert into cate(catename,intro) values (' ','')
+use myshop
+set names  utf-8
+insert into cate(catename,intro) values (' hhh','testacb')

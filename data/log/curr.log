@@ -1,0 +1,320 @@
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='dsf'
+use myshop
+set names  utf-8
+select count(*) from userwhere username='raoyuqing'
+insert into user(username,email,passwd,regtime) values ('raoyuqing','raoyuqing@qq.com','f6645a2bdb43e7597c12bdc2b2079be9','1447468626')
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select count(*) from user where username='raoyuqing'
+insert into user(username,email,passwd,regtime) values ('raoyuqing','raoyuqing@qq.com','f6645a2bdb43e7597c12bdc2b2079be9','1447472673')
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select user_id,username,email,passwd from user where username ='raoyuqing'
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_imggoodsorder by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from goods where is_delete=0
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category where parent_id=4
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from category where cat_id=1
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from category where cat_id=1
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from goods where is_delete=0
+use myshop
+set names  utf-8
+select goods_id,goods_name,shop_price,market_price,thumb_img from goods order by add_time limit 5
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from goods where is_delete=0
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from goods where is_delete=0
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from goods where is_delete=0
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from goods where is_delete=0
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select cat_id,cat_name,parent_id from category
+use myshop
+set names  utf-8
+select * from category where cat_id=1
+select cat_id,cat_name,parent_id from category
